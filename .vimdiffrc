@@ -1,0 +1,4 @@
+:wincmd l
+:normal zR
+nmap < [c
+nmap > ]c
